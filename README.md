@@ -8,7 +8,7 @@ This script allows to reboot and shutdown using hotkeys in computers where the i
 Save the executable file and create a shortcut in your startup folder (C:\Users\<UserName>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup).
 
 ### Usage
-Shutdown: Control + R 
+Shutdown: Control + R  
 Reboot: Control + S  
 Cancel: Control + A
 
